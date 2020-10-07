@@ -1,0 +1,3809 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes.json",
+  "type": "AnnotationPage",
+  "label": "Notes",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introducer: True morning after, I think. Last night was one of those great events. I know it was for me and I know by the response last night that it was for you. And this morning, Mrs. Sexton has very kindly agreed to come and just talk things over with you and to answer any questions you might have and to take up things as they come. I hope you'll ask questions.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.000000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Now, it's all yours. It's not mine. Yes?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "38.628400"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Might you read us this before you begin?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "47.252752"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Well, why don't, I'll read as things come up or if there's something special you want me to read, I'll read that.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "49.861800"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: 'In the Deep Museum'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "55.369789"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: You want to hear that?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "56.964208"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: of course.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "57.616469"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Shall I prepare everyone for it?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "60.153044"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: [laughter] perhaps.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "62.834565"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I should have my definition of blasphemy and everything along those lines.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "66.095874"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": " AS: Well, it took me a long time to write that poem. It's what I call a voice poem. The voice that I use is Christ's, which is rather presumptuous. I don't know what kind of voice I'm in this morning, myself.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "73.415703"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I'm trying to think of how I can explain it. How many have ever read this poem 'In the Deep Museum'? Anyone? A few. Why, let me get a little response out of you - that have read it. What kind of poem is it? How would you introduce it if you were about to read it? Come on now, raise your hands; you've got to work. I mean, Introduce it for me and then I'll read it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "98.056708"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "133.641220"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AD: No, just try. Don't be scared. We're just here to talk.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "138.714368"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I mean, all, an introduction is just a preparation so that everyone can have an idea because they don't hear it twice so they haven't read it. They've got to know something. They've got have a few hints, particularly with this poem. You don't have to analyze it, just introduce it. If, we'll try several so you're not the only one stuck with it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "150.020241"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: It's not that. It's just that I'm not quite sure that I --",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "177.415242"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: You don't understand it. Ah. Anyone have any idea how to introduce it. Anyone have any idea how to introduce it? Any of you who read it? Or do you have anything to say about it before I read it? For instance, did you like it?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "180.024289"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: I responded to it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "199.157306"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: You're responding?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "200.606777"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS:  What do you have to say? Anything?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "202.563562"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Yes.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "202.563562"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Wow [laughter].",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "204.520348"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: What?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "205.534978"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: It kind of tears you open.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "208.651340"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I think it's a difficult poem. Wait until everyone gets seated here.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "215.536327"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Well, it is Christ speaking after the crucifixion. He wakes up in the cave, the cold cave, the sepulcher. And I spent a lot of time trying to think about how Christ would speak. After all, I didn't know him.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "229.088880"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS:  But, you know, I read the bible and everything I could think of. I got as close to him as I could. He seemed so far away. In many ways it's a very Christian poems. In another way it isn't because I said he didn't rise. But I worked out a worse thing. I mean, I worked out a real crucifixion for him, I think. It sounds very presumptuous, I think. But I don't know, I had this concept of, what if he didn't die, you know and what would it be like? Because his mission in life was to die on that cross. He had to do it and he had to rise, for the people he loved.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "251.338259"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'In the Deep Museum'. I'll read it. I think that's enough explanation. Do you?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "292.358286"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: You don't understand what happened?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "466.367271"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: I don't if I understand why, why to  the bellies and the jaws of rats.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "470.498264"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Because it seems to me the most degrading, awful way to die that you could imagine and not, you know, the beauty of the cross, you know, which is in public and we all glorify but in this terrible, hidden awful way because he had to die, because he had to disappear. I don't know why I made it up and why I did it. I don't know what compelled me to write it. I forget. I mean something. I got hung up on it, the idea. It took me a long time, about three months.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "475.571412"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: My favorite verse is the first verse, though. I mean, I'll rather, I'll put it this way, It's got the best writing in it. I think.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "516.301545"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Now girls, let me explain to you that I was turned on last night and I'm turned off this morning because I'm never turned on early in the morning.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "529.056889"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "537.028979"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: And gentlemen.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "539.565553"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: So, and you're probably the same way, but you've got to do some work for me. You've got to ask me the questions, because, or ask me to read or do whatever you want.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "543.551598"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: You say you don't know exactly how the poem started, but do you --",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "552.973159"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: No, except that I thought about it for a long time.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "557.466519"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Yeah, well, generally you do think for a long time, at least I find that before I start to write something. Uh, Do you know what that, can you remember what the actual point of departure was when you started to actually write it?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "559.133411"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Want to hear some worksheets? Are these worksheets? Yes. Except they're all mixed up.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "572.468543"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Here's a poem I didn't read last night. Would like to hear a poem and then hear or hear that I wrote it back in 1958 when I didn't know how to write? I think I've got that.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "583.267102"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 1959 I say. 1959. Didn't know how to write. and I wrote it then but I'll read you the way it is now. Oh, hell, well I think I've got it. I mean, I think you'd like the poem and then I'll show you, you know. This, this, although this isn't showing you much, it's showing you the jump in time and taste. You know, I suddenly knew what to do. I had the bones of a poem but I didn't have any imagery and I didn't have thickness and all that. Not quite answering your question but I think this will be an interesting thing to do and then we can go back to what you were talking about. And, you inspired me to read you this poem. I think you might like it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "594.500502"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'Self in 1958' . It used to be called 'I live in a Doll House'. That's back in 1958 but now it's 'Self in 1958'.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "638.781839"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: You know who Mrs. Rombauer is anyone?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "720.966840"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: 'Joy of Cooking'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "724.155676"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'Joy of Cooking.' You'll have to buy one when you get home.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "725.025359"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "727.489459"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Now, that's an old, old poem, one of the first poems I wrote when I started to write. I pulled it out. I rescued it. I'm going to read it even with, I'm, See I was working on it at first. You see my pen. I'll see if I can read through all the bad writing.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "774.887159"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: It's very much the same. It just isn't thick. You'll see what I mean.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "802.644527"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Now, I crossed that out and put 'iron' because that's stronger, you see. A lot of things: 'doll dainty' I change into 'advertise flows'.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "831.778893"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I and then I crossed that out and wrote 'plants'.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "850.187174"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I changed 'tea' to 'gin'. Difference in the time, I guess.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "862.217782"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "867.798245"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I changed that to 'synthetic'.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "872.509026"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Very bad writing, 'quickening fears.'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "879.756380"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: And I stuck it away and it stayed there all these years and then I worked on it. Now, what made me originally, I'll show you, I mean, a worksheet.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "887.076209"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: How many are familiar with a poem, 'All My Pretty Ones'? That's not very many, is it? Is there anyone who would like to read it for me? Save my voice? One of you, who, please don't be shy. One of you Who have read it? I have a copy here and then I could explain it. Come on. Help me. Don't worry about yourself. Think about me and now my voice is going is going and everything else. I command you. Raise your hands again.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "901.136077"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "936.938009"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Raise your hands again. Raise your hands again. Now, you can't be, come on. Raise your hands again. Who has read the poem 'All My Pretty Ones\". Would you come up please and read it for me and don't worry about reading it badly or not badly, just read it. Would you like to sit down? I'll stand up.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "939.257162"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student; I'll sit on that.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "959.477282"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Ok. Don't lose all my places because they're for my next reading.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "960.564385"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: I won't.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "963.390853"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "965.420112"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Ah, let me, I'll explain a little bit. I wrote this after my father's death and I'll show you the beginnings of it but I'd like you to hear it once.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "966.652163"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Are you going to introduce it?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "977.523195"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Well, I think that's, the introduction, uh, is not too needed. It's an elegy for my father. And I call it, oh, read the quote at the beginning from Macbeth.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "980.059769"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: This is from Macbeth. \"All my pretty ones . . . '",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "991.148221"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Now let me tell you how this happens. Macduff, you may not know or you may know, Macduff hears that his children and wife have been slaughtered and this is what he says. No, read the, that's right.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "993.539848"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: And then, I title this 'All my Pretty Ones'. I'm going to give you a hint, a lesson. Read slow. The only thing you've got to do is read slow.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1020.934849"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Ok.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1030.138989"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Slowly? What do you say? Which is it? 'Slowly'?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1030.936198"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1034.704823"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: How am I supposed to know? I, put it my way, 'Read slow.' Just keep thinking that to yourself, because it's hard to get a poem.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1038.038606"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Oh, you read it beautifully, thank you so much. Oh, she gives me a wild look.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1244.733160"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1251.473200"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I'm very grateful.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1254.009774"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Alright. It's pretty confused here but I think I can find the beginning of this. This is just rattling with paper. The whole thing will be rattling with paper. I'm looking for very first beginning. Maybe it's way at the beginning.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1259.590237"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I started out like this, 'Somehow God knew' Just, you know, you heard the beginning.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1298.508532"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: First two lines are 'Father this years' jinx rides us apart where you followed our mother to her cold slumber'.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1304.523836"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Next, next I'll give you the next two lines, 'a second shock boiling its stone to your heart, leaving me here to shuffle and disencumber you from the residence you could not afford.'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1311.553770"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I roll my typewriter, the page into my typewriter and I write, 'Somehow God knows why you died last week.' Start again. 'Somehow God knows how I'm the only parent now on the June morning they put my two young parents' I go down three spaces. Are you following me? Because I'm trying to give you --",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1326.555794"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'God knows it's queer enough to have them gone.' I go down five spaces. 'Father, the worst is over, the boozy rich man that you were. '",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1345.398916"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I go, this means I wind my typewriter down. That's fine. 'My mother's ashes waited patiently at the crematory for the ground to melt'. Here's something crossed out. 'The morbid part is done. Mother gone. Father gone, somehow.' End of page.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1354.675530"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'Today, they'll dig two squares in the family plot. My parents are ashes for the ground. It is June. At five a.m., the same old birds move on their, in their twigs and start to sing and still as if the gospel were true, the neighbors come to comfort me, saying how much they loved each other and then, now they are in heaven together. Father, what do they know? That a second shot came boiling its marble through your blood.' I'm starting here because I say, 'a second shock boiled its stone to your heart' I'm coming to something but I don't know what I'm writing. This is kind, of who, It was your question, but I'm showing you kind of, the process.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1373.228758"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'Came boiling its marble through your blood. That you went just three months after mother, they call that love? Father, before you had time to marry that pretty wife,' and then I crossed it out and wrote 'widow'. 'You were lonely you said. I cried against your shoulder and three days, just three days later, suddenly in Gloucester you were dead. Well, now you'll never marry anyone again. The local newspapers buried you in large print just like the other large, rich men. It ought to be against the law to have everyone die at once. It's the usual June morning. I hear the same birds sing in time. Time itself is the fatal flaw and to be left, to be left, that's the awful thing.' That wasn't the poem.' I mean, I knew.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1421.641087"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I go on that way, but the next page looks the same.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1464.255533"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Now here's one, another stab at it. I've gotten the will in the mail. A day goes by, as much as I put that day. 'Whereas, Father, you fell on June third in the expensive sea air of this, sea air of this unlucky year of our lord, 1959, leaving me to read another will, leaving me with your famous alcoholic tendency, leaving me this cursed share.' Then, on the edge of the line, I have  'to drink your glass of wine' which I later put in 'cursed share of the residence you couldn't afford, twenty pairs of shoes.' Now I changed that, someone pointed out to me, to 'twenty suits from Dunn's. 'Twenty pairs of shoes' -- he did have 20 pairs of shoes, as a matter of fact, but. 'Half a woolen mill, a new Cadillac, an English Ford, and leaving me witness to your prime, leaving before you had time to marry that pretty widow, Mrs. Ricker.' I name her. Terrible what I do here. 'You were lonely, you said. I cried, grew martyred, and sicker. Three days later you were dead.' And I still didn't have it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1474.111935"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: And, I work and work. I write that all over, you know. All these pages are that. And then, suddenly get it. Trying to see if I can find out where, six . . . seven. If these were in order I'd be helping you more.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1549.774318"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-88.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Ah, I start putting it into a form, syllabic count and rhyme count and all that. 'Whereas, father you fell suddenly on June third in the expensive year' goes right on, same thing. It's in form now.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1578.183948"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-89.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Then, here's another thing, but I use parts of it. Another stanza I write. Same form, which says 'ABCDEADBCEC'. I use little tricks that I play with, you know, thinking they'll help me. You know, that's all. I'm just looking to write the poem, but. Then, I have a second stanza here 'whereas the jinx rides in my head' Now, this starts out, the poem says 'Father, this year's jinx rides us apart' so I've got the word jinx, anyway, but I have, 'Whereas the jinx rides in my head of your father, president of the bank, who went out shrieking in a straitjacket of you, for you. Good God the duke you tried to be. Good God, the drunk you were. Good God, the man the day you were the day you stopped sober, jinxed instead by a second shock boiling through your head', Now, I've got 'boiling', which I use.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1595.867493"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-90.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'A refugee from the bottle for ten years, shrieked at death, shrieking at death, you sank from your staff because you had no wife. Back sat at your daughters, you turned to anyone else's plan and now we are sober folk in your wage bracket.' Didn't use that. Same junk.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1653.266542"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-91.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Suddenly, 'Whereas, father, the jinx rides us apart'. It took me quite a long time to get rid of that 'whereas' because it came from the will, you know, 'whereas blah blah' and I was hung up on it. I didn't know enough to just say 'father this jinx', use 'jinx rides us apart' because it's this year's but I have, 'Whereas, father, the jinx rides us apart where you followed mother to her cold slumber, a second shock boiling its stone to your heart, leaving me here to shuffle and disencumber you from the residence you could not afford'. It's really quite the same except some of the writing is better on the new one.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1676.458077"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-92.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'A gold key, your half of a woolen mill, twenty pairs of shoes, an English ford, the love and legal verbiage of another will, a box of picture albums that must go, filled with nameless folk who I do not know.' Very bad. I later corrected that.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1719.072522"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-93.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Let me read it correctly to you: 'The love and legal verbiage of another will, boxes and pictures of people I do not know. I touch their cardboard faces, they must go'. But you have to work and do a lot of bad writing before you get to them [inaudible] Excuse my little flowers to tell you but I'm trying to be cheered up for you --",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1737.335856"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-94.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1761.107179"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-95.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: -- even though I'm not. That's, well, that gives you an idea. And, then, you know, there are a lot of pages and stuff. But, what you do to start a poem is to just kind of, you know, I had a poem but I didn't know what it was. Just to my father, but I didn't know what.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1762.991491"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-96.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Yes? There were two people. Yes?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1780.747510"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-97.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Ms. Sexton [inaudible] on Tuesday [inaudible] in an interview [inaudible] you spoke about your favorite poem being a lie. Can you talk a little bit about that?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1783.429031"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-98.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Well, all I can say to you is that I lie to you. Haha and everything's a lie.  It's a marvelous way of telling the truth. All you have to do is say that --  It comes from a poem of mine where I say essentially 'a writer is a crook'. And, uh, then I say, 'all poems lie'. Well, they do, in a way, because you change things, I mean, to suit the poem, like in the poem 'The Double Image', I don't mention the fact that it's really a lie. I don't mention the fact that I had two daughters, not one, because it was dramatically more important to write to one daughter and that daughter happened to be away much longer than the other daughter, but it was dramatically important to write to one so that's essentially a lie and I could lie anyway I wanted as long as I keep the basic, you know dramatic, the impact of the poem. But poets do lie, particularly me. I mean given I might lie, I lied in that interview. That's why, I had, it was important to have the fact ended by a lie.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1799.953000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-99.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1865.034245"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-100.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: It gets you right off the hook, in other words.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1867.788239"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-101.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1869.962446"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-102.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: It's merely a trick of mine to get myself, you know, out of trouble, haha. Because someone would say \"well you said one time\". You know because I could give an opposite interview compared to that interview and it was in the 'Hudson Review'. But poets lie because they're telling you stories and they're making you believe they're true.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1873.151282"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-103.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I have a poem that I wrote about, it's called \"Unknown Girl in the Maternity Ward'. It's about a girl giving up an illegitimate child, and I wrote it in the first person. And this is not true. I never gave up an illegitimate child. I did have to give up my daughter for a while, Joy, as you know from the reading last night. And so I could feel, and I had met once, in a mental hospital, I met a girl that had to give up her child, that had an illegitimate child, and I felt so badly for her. It was such a terrible thing that I could write the poem. But, people in Wellesley, my husband's relatives said 'He certainly was nice to marry her after she had gone and had an illegitimate child'.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1895.473134"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-104.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1938.449947"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-105.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: But, you, so that's a lie, and really what's worse is I keep getting letters from girls who are pregnant and saying 'I'm not married. What will I do? You tell me', you know. And I feel terrible because I have to write back and say, you know, I give them, 'I think you better give up the child, I think', but really I don't know, because it didn't happen. You get lots of letters from unwed mothers, and I have to confess that it isn't true. The Christ poem isn't true not that I know of. Just my vision of things, which is essentially a lie.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1943.088254"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-106.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: I had one more question.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1990.703374"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-107.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: A lie of mine.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1993.457369"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-108.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1995.196734"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-109.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS; She was asking about modern woman and her whole problem and I wanted to get her off it, feminine mystique, etc.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1998.530517"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-110.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2000.559776"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-111.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Do you, do you teach? Do you ever -",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2009.546496"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-112.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I have, I did try teaching one year at Harvard and Radcliffe, creative writing, but I found that they were just really vague or not imaginative. They just wanted to learn how to succeed at writing a good poem, you know excel, and that isn't the way you go about it. We were in a really stately room and I kept saying 'We should go to a barroom. Hawthorne should be written in revolt!'' You know, you've got the, all they wanted to learn to fix their poems and get them printed and get an 'A' somewhere and that isn't the attitude. You've got to really want to make something, creative. So I, I didn't continue with it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2012.300491"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-113.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: What do you mean?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2027.230042"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-114.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: We were in a really stately room and I kept saying 'We should go to a barroom. Hawthorne should be written in revolt!' You know, you've got the, all they wanted to learn to fix their poems and get them printed and get an 'A' somewhere and that isn't the attitude. You've got to really want to make something, creative. So I, I didn't continue with it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2027.809830"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-115.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: And I used to have a lot of fun because I'd stick in my own poems, and we'd read them, and boy, they'd tear them apart. Everyone is anonymously, you know, discussed. They'd be tearing apart my new poem.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2050.131682"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-116.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2061.147661"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-117.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'This is a terrible poem, etc. etc.', and maybe they were right.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2066.365757"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-118.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Well if someone does ask you what the, the most important thing to learning about writing is, what do you say?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2072.018693"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-119.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Well, the very most important thing to learn is to open your eyes and start looking, at times. Try to get very sharp sight so you can see everything, and if something painful happens to you, or something beautiful, you must be very aware of it, and kind of, it would be, I think, the most important thing you could do and something I don't seem to do is to keep a journal. I would start keeping a journal and observe, you know, and observe. I don't exactly mean a diary because you wouldn't have to write in it every day, but I, you know, and observe. And actually, it would be important later because you could read it and say, 'There, that was me, that was the way I thought and that was the way I felt'.  And, you know, gee, if I only had a journal of what I was thinking, you know, back some time. I mean, it'll be very important to me. Yeah?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2079.121101"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-120.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: What do you feel the relationship between, in your work, between prose and poetry is. I know that in a lot of your poems, you'll have an epigram or--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2129.272795"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-121.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Yeah, well they write such marvelous things, you know, but and sometimes I just take off from that or sometimes it just goes and really the reason I have them there is because I want to keep them. You know, just, I want to be able to find that little quotation, you know, and so I know if it's printed in my book, I'll be able to find them.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2136.810044"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-122.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2152.754224"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-123.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: It's just, they're precious things to me. There are lots of them. I gather them but I keep losing them or they get thrown out or something.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2156.088007"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-124.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: How do you know, or do you know when a poem is done?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2165.074727"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-125.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I can't explain that to you because it's so hard. I think you might know a year later if it was any good. When a poem, I don't know, I can't, but I'd say keep rewriting. The problem with most young writers is that they write it once or twice and think it's all done. You've got to open up, go way, way out and then later, close in. But you've got to do something scared. Stop worrying about sounding like someone else, just open way up and write it full and then you come in with your superego and cut and change and rearrange words, and. But I've, my technique is to keep rolling it in the typewriter and starting, and. Or leave it. One day I'll think it's marvelous and two or three days later, I'll say no, no that isn't it, yet.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2168.263563"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-126.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Have you ever written a poem in one sitting?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2215.516315"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-127.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Well, the 'Pain for a Daughter\" poem, I had the concept all at once. I was telling my best friend on the telephone about this happening and that she cried 'Oh my God, help me' and, you know, I knew that she had crossed over because a child would say 'Mama help me' and so when she said, 'For God's sake, Anne, you've got a poem and you're telling it to me' She's also a poet. 'Go write it down'. I said 'I can't. I have to be at the beauty parlor. I only have a' 'Doesn't matter,' she said, 'Get there at the typewriter.' So I'm typing when I -- so I get the concept, you see. This is the only poem that I knew the ending. So, you know, I get the concept all at once. And I worked on it for maybe four days, five days. You know, I guess, I had to get the narrative right because it's really, it's a story up until the end where, where you get your crescendo. 'I knew that she knew' and all that.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2219.864728"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-128.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2246.679940"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-129.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Yes?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2271.610840"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-130.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Do you ever start from the ending and work to the beginning?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2271.936971"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-131.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Uh, the only answer I would give you to that is a lie because if I did I wouldn't want you to know about it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2276.756462"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-132.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2282.010794"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-133.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Because you're not supposed to. Frost said the ending should always be a surprise or something. I'm not sure. I don't think. Well, I really did with the poem to Linda, the 'Pain for a Daughter' because it was the ending that I knew. Of course, I knew the beginning too, factually, but I had to order it and present it. I didn't know that I was going to write 'and then I knew that she knew'. I mean I didn't know how it was going to be poetically, but I knew the concept before I started. I mean, I knew why I was writing it. Usually you don't. Usually you don't. But sometimes I get the ending in the middle of a poem and realize that it might be a good ending, but I'll keep on writing and then put it, you know. It's all rearrangement.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2283.641449"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-134.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: You can hear on those worksheets that I read little things that were later to come. You know, that, that uh, you hugged me or something and then three days later you died. I have that and then I have my God father thing 'while I drink down your blood with wine and -- '. I never remember my poems.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2325.168791"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-135.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'My God, father, each Christmas day with your blood will I drink down your glass of wine' and the alcoholic tendency I mentioned early in an early draft, I got that in. I didn't know I was gonna say 'whether you were pretty or not I outlive you, bend down my strange face to yours and forgive you'. Very strange, I was going to a psychiatrist just for a short while, my own was away and he thought I needed a babysitter so I went to this other psychiatrist who read my poems and he said 'You've already forgiven your father, you know, in that poem'. I said, 'Well that's just a poem. It doesn't mean I've really forgiven him.' He was taking it so seriously, some psychiatrist.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2344.845359"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-136.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2387.242384"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-137.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: It's harder to forgive parents, any parents.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2394.091134"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-138.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Yes?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2400.649990"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-139.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: if a poem just represented a mood, it was just a, um, spontaneous thing, then how could you go back later and rewrite it when the mood was gone, the mood worth the writing, I mean worth the --",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2401.410962"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-140.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Oh sure, but you have to make the people feel the mood. And you've got to work on it with technique, you know. You've got to really work on it. It's not just going to come all at once. I don't think. I mean you've got to work on it, make it better. That's all. Write it down. Get it down. You don't have to work this, sometimes I do, you know, get it, but then I work on it, a little. You know, I've got to make details better or clearer or images brighter or I've got to see better. That's why I said keep your eyes open. You know, it's the best advice to a writer and, then, to keep a journal. If you ever do those two things, you're well on your way.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2414.601147"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-141.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Do you feel that technique comes actually through writing or is this something that is more studied?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2454.642782"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-142.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I don't know. Study writers you like and see what they do and how they do it. You have to acquire a taste and that took me a long time. Like you could see with the 'I Live in a Doll House' the difference between the finish, finally what I knew to do, that I didn't know back in 1959 or 1958, whenever it was.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2462.506162"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-143.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Study writers.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2488.777822"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-144.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introducer: What do you find you read mostly, in terms of poetry, prose, contemporary or, or --",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2491.278160"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-145.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I just read everything all kind of at once, but I really don't read the old poets because they bore me.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2500.156169"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-146.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2508.852995"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-147.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I only read things that interest me, but I read prose. I love prose and I read poetry that I like.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2509.577730"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-148.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introducer: Which contemporary poets do you read now?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2517.839714"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-149.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Well, Randall Jarrell, Roethke, of course they're dead but that's just recently. Elizabeth Bishop, Mace Winston, W.D. Snodgrass, James Wright. You could go on listing them. Just people that I like to read. Louis Simpson has some good poems, you know. I mean, for me good, you know.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2520.738656"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-150.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Yes?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2549.184523"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-151.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: [inaudible]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2549.655601"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-152.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Oh dear, I don't want to be like anyone but me. I didn't know him personally, not terribly well, but I feel that he's a good friend. He stayed at our house.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2561.613736"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-153.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'Heart's Needle'. Do you know that poem of his? Influenced me greatly in my life, because it helped me get my daughter back. You know, it was about the loss of a daughter? Actually, after 'Heart's Needle' I sat down and wrote 'Unknown girl in the Maternity Ward' which is about giving up a daughter. You know, it influenced me to do that and then I ran up to my mother-in-law's where Joy was staying and got her but I could only keep her for a week. I was still too sick really to have her. I didn't get her back until then, but I did meet W.D. Snodgrass and he said, 'Why don't you sit down and write the truth' and so I did but it took me about a year. 'The Double Image'. It's a terribly hard poem because it has -- it's different from 'Heart Needle', 'Heart's Needle' because it tells a story. It has the narrative where his is a series of lyric poems. You know it doesn't change in development. It doesn't involve the mother and a whole lot of narrative story.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2571.977454"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-154.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: But he came to visit us around that time. He went out somewhere, I think, with Robert Lowell. They were going to some function. He came back about 1 and I was still sitting at the typewriter and he said, 'Why do you torture yourself like this. Why don't you have a little fun?' And I thought, this is the guy that told me to write the truth. He doesn't know how much work it takes. You know, and I stayed right there, right at that typewriter. I didn't leave it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2628.977898"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-155.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: But, uh, i think he influenced me to be a little more daring. I was doing it in the beginning anyway. People said you can't write this personal poetry. It just isn't done. Even the poems that aren't printed, they were bad, but they were personal as hell. And you can't write about madness. It just isn't done. But I couldn't help it. That's just what I was writing about.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2656.336662"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-156.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: But Snodgrass did influence me by just saying 'Why not, Anne, why don't you write the real story?' But he didn't know the whole story. Neither did I really. But, his, just, remark was enough. It was the first time that anyone had stopped saying, they all were saying, 'You can't. You can't. You can't. You can't.' He was the first person who said, 'You can'. But I'd been doing it anyway.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2679.202066"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-157.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Would you say that 'Double Image' was the hardest poem you've written?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2704.567807"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-158.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Well, there's one new one. No, 'Double Image' is the hardest, was the hardest. It's technically very involved. I made it almost impossible to write in a technical way so that I could write it in an emotional way. You know, I figured, well this is impossible to write now and that really let me, allowed me to let go.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2711.162900"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-159.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: And I had a hard time knowing just where to end it and how to do it and put it in order and what section and, you know, how to develop it. I sound very technical about it but I think I was trying to thinking technically because really it was so emotional. It was hard to write. I've had poems that have been difficult since and they're always the personal ones. Of course, everything I've read is pretty personal. I spent a long time on 'The Deep Museum', but I felt personal about it. Although it isn't about me.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2737.398323"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-160.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Uh, the poem you read last night, remember --",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2767.764739"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-161.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Uh-huh, 'Little Girl, My String Bean'?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2770.192603"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-162.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: You said you published it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2773.308966"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-163.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: That was in the 'New Yorker' last summer.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2774.396069"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-164.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: My new book is coming out. Announcement!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2776.860169"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-165.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2779.650401"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-166.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: 'Live or Die', Hoping for September, October. It'll be in that. Or you can go look it up if you want to look it up.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2781.099872"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-167.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: I would be interested.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2790.775090"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-168.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Alright. It's the last week of July or the first week in August, 'New Yorker', 1965. Or maybe the second week in August. I'm not sure, but look at those three, and it'll be there.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2792.043377"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-169.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: I'm having a long poem come out May 7th in the 'New Yorker' that was very hard and it took me six years to write. Six? Maybe, 1962, what is it? Four years. I think that's a long time. Haunted me. I don't know why they're printing it. It's, it's wilder than 'The Double Image' or anything.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2806.900454"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-170.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Yes?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2833.462009"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-171.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Student: Well, I was wondering, what you do you feel like when  you see a poem of yours in 'The New Yorker' or when you see a book that you've published?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2834.078034"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-172.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Well, I couldn't wait for my first book to come out so I could hold it, you know?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2840.455706"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-173.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2844.659172"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-174.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: But that only lasted about two weeks. And of course when you first see something in print you're delighted.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2846.652195"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-175.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[bell]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2853.319761"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-176.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: But the trouble with 'New Yorker' poems is they often don't look like your poem any more. I tell you the only thing that really interests me is my name. I keep looking at it and saying, 'Anne Sexton, that's me and I'm there. Isn't that odd'. I like to, I like to see it in print because it gives you another remove.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2855.349020"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-177.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2868.068128"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-178.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AS: Thank you, very much.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2875.351719"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-179.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Students: [applause]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2876.764953"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes-annotation-180.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Recordist: This is that fool with the tape recorder and I wish to explain why I was so reticent about making a copy for you. I haven't had my recorder very long and I knew that it would turn out to be a lousy recording which this is. And I also knew that whatever tape recording I would be working with to copy it with would have a different speed and it seems that even though you put both recorders at 3 3/4 inches per minute that they just don't come out the same as you can hear. I believe that I speak for everybody here at Sweetbriar when I say thank you very much for coming. We appreciate it greatly and hope that you will return to us very soon. The best of everything to you.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2891.006005"
+        }
+      }
+    }
+  ]
+}
