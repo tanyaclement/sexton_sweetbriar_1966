@@ -23,6 +23,14 @@
         "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
         "type": "Canvas",
         "duration": 98.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes.json",
+            "label": "Notes"
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/paintings",
