@@ -1,0 +1,79 @@
+---
+layout: page
+---
+
+
+
+ <div id="uv" class="uv"></div>
+
+<script>
+
+    var myUV;
+
+    window.addEventListener('uvLoaded', function (e) {
+
+        myUV = createUV('#uv', {
+            iiifResourceUri: 'manifest.json',
+            configUri: '{{ site.baseurl }}/assets/uv-config.json',
+            root: '../../{{ site.baseurl }}/assets/uv'
+        }, new UV.URLDataProvider());
+
+        myUV.on("created", function(obj) {
+            console.log('parsed metadata', myUV.extension.helper.manifest.getMetadata());
+            console.log('raw jsonld', myUV.extension.helper.manifest.__jsonld);
+        });
+
+    }, false);
+
+</script>
+<script src="{{ site.baseurl }}/assets/datatables/datatables.min.js"></script>
+<script src="{{ site.baseurl }}/assets/uv/uv.js"></script>
+
+
+<table id="annotation-table"  class="table table-bordered table-dark">
+  <thead>
+    <tr>
+      <th style="width: 15%;">Time</th>
+      <th>Annotation</th>
+      <th>Layer</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for annotation_page in site.data[page.manifest_name].manifest.items[0].annotations -%}
+      {%- for annotation in site.data[page.manifest_name].canvas-1[annotation_page.label].items -%}
+        <tr>
+          {% assign timestamp_array = annotation.target.selector.t | split: ',' %}
+          <td class="timestamp" data-timestamp="{{timestamp_array[0]}}"  data-sort="{{timestamp_array[0]}}">
+            {{timestamp_array[0] | divided_by: 60 | floor }}:{{timestamp_array[0] | modulo: 60 | ceil }}
+            {% if timestamp_array[1] %}
+              - {{timestamp_array[1] | divided_by: 60 | floor }}:{{timestamp_array[1] | modulo: 60 | round }}
+            {% endif %}
+          </td>
+          <td>{{annotation.body.value}}</td>
+          <td>{{annotation_page.label}}</td>
+        </tr>
+      {%- endfor -%}
+    {%- endfor -%}
+  </tbody>
+</table>
+
+<div>
+IIIF manifest: <a href="{{site.data[page.manifest_name].manifest.id}}">{{site.data[page.manifest_name].manifest.id}}</a>
+</div>
+
+
+<script>
+  $('tr').on('click',function(){
+     var myDataAttr = $(this).find('td.timestamp').data('timestamp');
+     if (myDataAttr) {
+       myUV.extension.centerPanel.avcomponent.canvasInstances[0]._setCurrentTime(myDataAttr);
+       myUV.extension.centerPanel.avcomponent.play();
+     }
+   });
+
+$(document).ready( function() {
+    $('#annotation-table').DataTable(
+	{ paging: false }
+);
+} );
+ </script>

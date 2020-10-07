@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {{ content }}
+
+  <div><p>{{ site.data.collection.summary.en[0] | escape }}</p></div>
+
+  <ul class="post-list">
+    {%- for item in site.items -%}
+    <li>
+        <h3>
+          <a class="post-link" href="{{ item.url | relative_url }}">
+            {{ item.title }}
+          </a>
+        </h3>
+      </li>
+    {%- endfor -%}
+  </ul>
+
+</div>
