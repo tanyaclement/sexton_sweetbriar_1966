@@ -30,6 +30,12 @@
             "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Notes.json",
             "label": "Notes"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas/Poems.json",
+            "label": "Poems"
+          }
         ],
         "items": [
           {
