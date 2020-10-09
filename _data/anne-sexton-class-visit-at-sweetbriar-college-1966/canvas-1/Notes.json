@@ -1295,7 +1295,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Student; I'll sit on that.",
+        "value": "Student: I'll sit on that.",
         "format": "text/plain"
       },
       "target": {
