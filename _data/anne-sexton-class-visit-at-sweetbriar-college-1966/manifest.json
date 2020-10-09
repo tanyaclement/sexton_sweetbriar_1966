@@ -22,7 +22,7 @@
       {
         "id": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 5895.0,
+        "duration": 5895,
         "annotations": [
           
           {
@@ -50,7 +50,7 @@
                   "id": "https://www.hrc.utexas.edu/research/audio/R_0084_01_01_acc_20100827.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                  "duration": 5895.0
+                  "duration": 5895
                 },
                 "target": "https://tanyaclement.github.io/sexton_sweetbriar_1966/anne-sexton-class-visit-at-sweetbriar-college-1966/canvas-1/canvas"
               }
