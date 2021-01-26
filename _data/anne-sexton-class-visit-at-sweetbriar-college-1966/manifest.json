@@ -47,7 +47,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://www.hrc.utexas.edu/research/audio/R_0084_01_01_acc_20100827.mp3",
+                  "id": "https://norman.hrc.utexas.edu/audioFiles/open/R_0084_01_01_acc_20100827.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
                   "duration": 5895
